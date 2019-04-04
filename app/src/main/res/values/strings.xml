@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">xfgo</string>
+    <string name="option_hint">具体数值，0为不修改</string>
+</resources>
